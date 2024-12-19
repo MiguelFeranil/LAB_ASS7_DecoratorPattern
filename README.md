@@ -56,14 +56,6 @@ public class Cimb {
 	}
 }
 
-
-
-
-
-
-
-
-
 You should display the following output:
 
 Account name: Juan Dela Cruz
@@ -89,26 +81,21 @@ Benefits: Standard Savings Account, With Insurance
 
 Description of the following methods
 
-showAccountType() - Either returns "Savings Account", "GSave" or "UpSave"
-getInterestRate() - Either returns 1% for Savings Account; 2.5% for GSave; 4.0% UpSave
-getBalance() - Returns the balance of the account set.
-showBenefits() - Either returns "Standard Savings Account" for Savings Account;
-		    benefits offered by savings account + "GSave Transfer";
-                            benefits offered by savings account + "With Insurance";
-computeBalanceWithInterest() - returns new balance by computing the balance plus the interest depending on the interest rate.
-showInfo() - Returns details of account number, account name, and balance.
+- showAccountType() - Either returns "Savings Account", "GSave" or "UpSave"
+- getInterestRate() - Either returns 1% for Savings Account; 2.5% for GSave; 4.0% UpSave
+- getBalance() - Returns the balance of the account set.
+- showBenefits() - Either returns "Standard Savings Account" for Savings Account; benefits offered by savings account + "GSave Transfer"; benefits offered by savings account + "With Insurance";
+- computeBalanceWithInterest() - returns new balance by computing the balance plus the interest depending on the interest rate.
+- showInfo() - Returns details of account number, account name, and balance.
+- BankAcountDecorator must be an interface.
 
-BankAcountDecorator must be an interface.
-
-Follow instructions.  You are not allowed to insert other methods except what is stated in the diagram (setters and getters are allowed).
-
+Follow instructions. You are not allowed to insert other methods except what is stated in the diagram (setters and getters are allowed).
 
 In your solution you must provide the following in your Github link account:
-  - Problem statement (description of the problem. Just copy what is stated here).
-  - UML Class Diagram
-  - Uploaded java codes for the solution.
-Upload your GitHub repository to the designated NEUVLE assignment link.
 
+- Problem statement (description of the problem. Just copy what is stated here).
+- UML Class Diagram
+- Uploaded java codes for the solution. Upload your GitHub repository to the designated NEUVLE assignment link.
 
 
 
