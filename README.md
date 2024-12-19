@@ -66,7 +66,28 @@ public class Cimb {
 
 You should display the following output:
 
-
+Account name: Juan Dela Cruz
+Balance: 10000.0
+Account type: Savings Account
+Interest rate: 0.01
+New balance: 10100.0
+Benefits: Standard Savings Account
+----------------------
+Account number: 1234
+Account name: Juan Dela Cruz
+Balance: 10000.0
+Account type: GSave
+Interest rate: 0.025
+New balance: 10250.0
+Benefits: Standard Savings Account, GCash Transfer
+----------------------
+Account number: 1234
+Account name: Juan Dela Cruz
+Balance: 10000.0
+Account type: UpSave
+Interest rate: 0.04
+New balance: 10400.0
+Benefits: Standard Savings Account, With Insurance
 
 Description of the following methods
 
@@ -85,9 +106,9 @@ Follow instructions.  You are not allowed to insert other methods except what is
 
 
 In your solution you must provide the following in your Github link account:
-  Problem statement (description of the problem. Just copy what is stated here).
-  UML Class Diagram
-  Uploaded java codes for the solution.
+  - Problem statement (description of the problem. Just copy what is stated here).
+  - UML Class Diagram
+  - Uploaded java codes for the solution.
 Upload your GitHub repository to the designated NEUVLE assignment link.
 
 
